@@ -1,0 +1,10 @@
+#Java build outputs
+/bin/
+/out/
+/build/
+/target/
+/classes/
+
+.idea/
+*.iml
+.vscode/
